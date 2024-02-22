@@ -1,14 +1,18 @@
 # Yearly Spent Prediction & Streamlit Web App 
 Using a Machine Learning Linear Regression Model to Predict the Customer's Yearly Spent From a Features like(App Usage Time, Website Usage Time, Membership Length, ...)
-## Web App Link: <a href = "https://yearly-spent-prediction-h9njsfqgjj8owews8cclnp.streamlit.app/" style = "color: tomato">Click Here To Visit Streamlit Web App</a>🥰📊
+### Web App Link: <a href = "https://yearly-spent-prediction-h9njsfqgjj8owews8cclnp.streamlit.app/" target="_blank" style = "color: tomato">Click Here To Visit Streamlit Web App</a>🥰📊
+
+### Kaggle Notebook For Main Steps: <a href = "https://www.kaggle.com/muhammadehabmuhammad/customer-s-spending-forecasting-streamlit-app" target="_blank" style = "color: tomato">Click Here To Visit Streamlit Web App</a>🥰📊
+
+
 ## Steps To Create The Model
 #### 🛍️ Getting rid of duplicates and nulls values 🧹
 #### 🛍️ Conducting a little data exploration 🧐
 #### 🛍️ Asking a couple of questions and getting insight via charts form 💰
 #### 🛍️ Understanding the correlations and relationships between features 📈
-#### 🛍️ Choosing a model andfittingt the data into our model.
+#### 🛍️ Choosing a model and fitting the data into our model.
 #### 🛍️ Testing our model 😉
-#### 🛍️ Answering  the important question: Which has the greatest impact on our annual spending from customers, mobile or website !!? 🔥
+#### 🛍️ Answering the important question: Which has the greatest impact on our annual spending from customers, mobile or website !!? 🔥
 
 <hr>
 
