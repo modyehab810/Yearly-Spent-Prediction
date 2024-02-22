@@ -2,7 +2,7 @@
 Using a Machine Learning Linear Regression Model to Predict the Customer's Yearly Spent From a Features like(App Usage Time, Website Usage Time, Membership Length, ...)
 ### Web App Link: <a href = "https://yearly-spent-prediction-h9njsfqgjj8owews8cclnp.streamlit.app/" target="_blank" style = "color: tomato">Click Here To Visit Streamlit Web App</a>🥰📊
 
-### Kaggle Notebook For Main Steps: <a href = "https://www.kaggle.com/muhammadehabmuhammad/customer-s-spending-forecasting-streamlit-app" target="_blank" style = "color: tomato">Click Here To Visit Streamlit Web App</a>🥰📊
+### Kaggle Notebook For Main Steps: <a href = "https://www.kaggle.com/muhammadehabmuhammad/customer-s-spending-forecasting-streamlit-app" target="_blank" style = "color: tomato">Click Here To Visit Kaggle Notebbok</a>🥰📊
 
 
 ## Steps To Create The Model
