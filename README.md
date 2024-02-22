@@ -1,6 +1,6 @@
 # Yearly Spent Prediction & Streamlit Web App 
 Using a Machine Learning Linear Regression Model to Predict the Customer's Yearly Spent From a Features like(App Usage Time, Website Usage Time, Membership Length, ...)
-
+## Web App Link: <a href = "https://yearly-spent-prediction-h9njsfqgjj8owews8cclnp.streamlit.app/" style = "color: tomato">Click Here To Visit Streamlit Web App</a>🥰📊
 ## Steps To Create The Model
 #### 🛍️ Getting rid of duplicates and nulls values 🧹
 #### 🛍️ Conducting a little data exploration 🧐
