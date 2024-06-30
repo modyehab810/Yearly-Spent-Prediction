@@ -6,10 +6,6 @@ import plotly.express as px
 import streamlit as st
 import warnings
 
-pd.set_option('future.no_silent_downcasting', True)
-pd.options.mode.copy_on_write = "warn"
-
-
 def creat_matrix_score_cards(card_image="", card_title="Card Title", card_value=None, percent=False):
     st.image(card_image,
              caption="", width=70)
