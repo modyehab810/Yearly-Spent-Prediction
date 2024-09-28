@@ -145,9 +145,9 @@ def run():
             color: #fff
         }
         .st-emotion-cache-1v0mbdj{
-        display: block !important; 
+            display: block !important; 
         }
-        div[data-testid=stSidebarContent]
+
 
 
     </style>
