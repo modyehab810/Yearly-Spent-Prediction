@@ -76,7 +76,8 @@ def run():
          div[data-testid=stSidebarContent] {
          background-color: #111;
          border-right: 4px solid #222;
-         padding: 8px!important
+         padding: 8px!important;
+         overflow: hidden;
          
          }
 
@@ -143,9 +144,14 @@ def run():
             border: 2px solid #0079FF;
             color: #fff
         }
+        .st-emotion-cache-1v0mbdj{
+        display: block !important; 
+        }
+        div[data-testid=stSidebarContent]
 
 
     </style>
+    
     """,
         unsafe_allow_html=True
     )
